@@ -11,8 +11,8 @@ trapezium = (number_a + number_b)/2*(number_c)
 square = (number_b**2)
 rectangle = (number_a * number_b)
 
-puts "TRIANGULO: #{'%.3f'%triangle}"
-puts "CIRCULO: #{'%.3f'%circle}"
-puts "TRAPEZIO: #{'%.3f'%trapezium}"
-puts "QUADRADO: #{'%.3f'%square}"
-puts "RETANGULO: #{'%.3f'%rectangle}"
+puts "TRIANGULO: #{'%.3f' % triangle}"
+puts "CIRCULO: #{'%.3f' % circle}"
+puts "TRAPEZIO: #{'%.3f' % trapezium}"
+puts "QUADRADO: #{'%.3f' % square}"
+puts "RETANGULO: #{'%.3f' % rectangle}"
